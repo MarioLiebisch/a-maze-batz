@@ -3,6 +3,8 @@
 
 © 2018 Mario Liebisch <mario.liebisch@gmail.com>
 
+![Demo GIF](demo.gif)
+
 ## About the Game
 
 You're helping **Batz** on his way through dark and deep caverns on the look for the one thing that really matters: **Batsie**. This must be true bat love in some way, although Batsie seems to leave our hero from time to time and he'll have to find her once again.
