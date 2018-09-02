@@ -13,7 +13,7 @@ You're helping **Batz** on his way through dark and deep caverns on the look for
 
 You can't really lose the game. There are no lives, there's no timer. Some kind of time attack mode was planned, but I was lacking time so far. In its current form, consider this a prototype and proof of concept.
 
-**This project originalted in a game jam weekend in a total of less than 24 hours.** This code isn't clean and it's clearly not built around best practices and optimization only. If you're curious, have a look, but always keep this in mind.
+**This project originated in a game jam weekend in a total of less than 24 hours.** This code isn't clean and it's clearly not built around best practices and optimization only. If you're curious, have a look, but always keep this in mind.
 
 ## Controls
 
@@ -47,3 +47,4 @@ There are a few tiny things to keep in mind here:
 * Make sure that tunnels and choke points are at least 10-12 pixels wide.
 * Green pixels (RGB: 0/255/0) are potential starting positions. If there's more than one position available, the actual starting position will be picked at random.
 * Red pixels (RGB: 255/0/0) are potential goal positions, i.e. where Batsie may be found.
+* Blue pixels (RGB: 0/0/255) create random water drops that will be visible.
