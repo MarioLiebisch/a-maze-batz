@@ -1,4 +1,5 @@
 # A-Maze Batz
+
 *A small casual game entry for the [Game Maker's Toolkit Game Jam 2018](https://itch.io/jam/gmtk-2018).*
 
 © 2018 Mario Liebisch <mario.liebisch@gmail.com>
